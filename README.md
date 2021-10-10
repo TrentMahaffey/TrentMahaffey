@@ -5,14 +5,9 @@
 <h3>I always thoughtt that you had to be brilliant to contribute in a meaningful way as a coder</h3>
 <p>But, as I've spent more time in the community, I've discovered that being a good coder is more than just IQ or how long you've been doing it. I am passionate about writing good code that is easy to maintian, easy to debug, and works efficiently. I also have a very good attention span. I enjoying tinkering with problems for hours to get the code to work correctly.</p>
 
-- 👋 Hi, I’m @TrentMahaffey
-- 👀 I’m interest!ed in learning how to use github.
-- 🌱 I’m currently learning new coding tricks on leetcode.
-- 💞️ I’m looking to collaborate on something that can push me into real SWE.
-- 📫 How to reach me.
 
-
-
+<h3>I view coding as a lifelong journey</h3>
+<p>I've come a long way, but I still have a long way to go! Regardless of where I am and where I could be for my age, I do think that for my time working in this field I've become pretty proficient. And besides all of that, if you like doing it, and you actively try to get better, all the other stuff dones't really matter anyways.</p>
 
 <!---
 TrentMahaffey/TrentMahaffey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
