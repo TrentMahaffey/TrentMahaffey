@@ -6,8 +6,13 @@
 <p>But, as I've spent more time in the community, I've discovered that being a good coder is more than just IQ or how long you've been doing it. I am passionate about writing good code that is easy to maintian, easy to debug, and works efficiently. I also have a very good attention span. I enjoying tinkering with problems for hours to get the code to work correctly.</p>
 
 
-<h3>I view coding as a lifelong journey</h3>
+<h3>Coding is a lifelong journey</h3>
 <p>I've come a long way, but I still have a long way to go! Regardless of where I am and where I could be for my age, I do think that for my time working in this field I've become pretty proficient. And besides all of that, if you like doing it, and you actively try to get better, all the other stuff dones't really matter anyways.</p>
+
+<h3>My Experience</h3>
+<p>I've spent the last 10 years working in Industrial Automation. My knowledge in electrical systems, transmitters, controllers, and manufacturing ultimately resulted in me working as an Automation Engineer starting in 2019. Since then, I've done a LOT of SCADA, mostly on Inductive Automation's Ignition platform. In my opinion, the how the developers allowed the scripting be leveraged in nearly every facet of their framework is where this platform really shines.</p>
+
+
 
 <!---
 TrentMahaffey/TrentMahaffey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
