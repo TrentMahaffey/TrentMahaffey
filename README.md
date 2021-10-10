@@ -1,4 +1,5 @@
-[Trent Mahaffey](https://user-images.githubusercontent.com/62947490/136677022-65eaee07-4aed-4f34-a67c-096f6f65836a.png)
+
+<img src="https://user-images.githubusercontent.com/62947490/136677022-65eaee07-4aed-4f34-a67c-096f6f65836a.png">
 
 - 👋 Hi, I’m @TrentMahaffey
 - 👀 I’m interest!ed in learning how to use github.
