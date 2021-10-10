@@ -14,11 +14,11 @@
 <ol>
 
 <li><b>SCADA - </b>I've spent the last 10 years working in Industrial Automation. My knowledge in electrical systems, transmitters, controllers, and manufacturing ultimately resulted in me working as an Automation Engineer starting in 2019. Since then, I've done a LOT of SCADA, mostly on Inductive Automation's Ignition platform. In my opinion, the how the developers allowed the scripting be leveraged in nearly every facet of their framework is where this platform really shines.</p>
-<ol>
-<h4>Python</h4>
-<p>I love, love love love Python. Sure, it's not the fastest language. But the portability is just amazing, and people can write good code in a reasonable amount of time. Take a look at my repository for some of my Leetcode solutions in Python!</p>
-<h4>SQL</h4>
-<p>Gotta know SQL in order to be worth a damn in my opinion. Data is the most valualbe commodity in the entire world, and all that data is stored in, SQL databases.  </p>
+
+
+<li><b>Python - </b>I love, love love love Python. Sure, it's not the fastest language. But the portability is just amazing, and people can write good code in a reasonable amount of time. Take a look at my repository for some of my Leetcode solutions in Python!</li>
+
+<li><b>SQL - </b>Gotta know SQL in order to be worth a damn in my opinion. Data is the most valualbe commodity in the entire world, and all that data is stored in, SQL databases.</li>
 </ol>
 
 <!---
